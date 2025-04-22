@@ -1,0 +1,14 @@
+{
+  "name": "dice-game",
+  "version": "1.0.0",
+  "description": "A sleek and interactive two-player dice game built with **HTML**, **CSS**, and **JavaScript**. Roll, hold, and race to 100 in this dynamic browser-based game.",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
